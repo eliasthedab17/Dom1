@@ -1,0 +1,20 @@
+.highlight{
+  background-color: yellow;
+}
+.underline {
+  text-decoration: underline;
+}
+.bold {
+  font-weight: bold;
+}
+.hidden{
+  display: none;
+}
+body{
+  background-color: rgb(126, 171, 171);
+}
+p{
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
